@@ -1,0 +1,60 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height:300px;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: aqua;
+    
+}
+.container-down{
+    
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.newcont{
+    margin: 5px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.cont1{
+    background-color: green;
+    height:390px;
+    width: 20%;
+    margin:5px;
+}
+.option{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height:150px;
+}
+.cont4{
+    height:120px;
+    width: 120px;
+    background-color: whitesmoke;
+    margin: 5px;
+}
+.banner{
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    margin:5px;
+    
+    height:350px;
+}
